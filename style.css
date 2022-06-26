@@ -9,7 +9,7 @@ body {
   
 .profile {
     margin: auto;
-    margin-top: 15vh;
+    margin-top: 5vh;
     width: 50%;
 }
 
@@ -27,10 +27,10 @@ body {
 
 .line {
     margin:auto;
-    margin-top:20px;
+    margin-top:10px;
     width: 80%;
     height: 0 ;
-    border: 4px solid #595772;
+    border-top: 4px solid #595772;
     transform: rotate(-0.03deg);
 }
 
@@ -42,11 +42,13 @@ body {
     font-size: 6vmin;
     text-align: center;
     color: #232145;
+    line-height: 0px;
 }
 
 .buttons{
     display: grid; /* creates a grid */
     margin: auto;
+    margin-top:25px;
     width:63%;
     grid-template-columns: 1fr 1fr 1fr;
     text-align: center;
