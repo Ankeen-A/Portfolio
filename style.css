@@ -1,6 +1,6 @@
 body {
     margin:auto;
-    height: 100vh;
+    height: 80vh;
     width: 95vw;
     border-radius: 0px;
     background: linear-gradient(180deg, #FFA699 0%, #E9A97C 100%) no-repeat center;
@@ -30,7 +30,7 @@ body {
     margin-top:10px;
     width: 80%;
     height: 0 ;
-    border-top: 4px solid #595772;
+    border-top: 3px solid #595772;
     transform: rotate(-0.03deg);
 }
 
