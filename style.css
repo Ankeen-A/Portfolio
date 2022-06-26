@@ -48,7 +48,7 @@ body {
 .buttons{
     display: grid; /* creates a grid */
     margin: auto;
-    margin-top:25px;
+    margin-top:40px;
     width:63%;
     grid-template-columns: 1fr 1fr 1fr;
     text-align: center;
